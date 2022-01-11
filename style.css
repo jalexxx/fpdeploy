@@ -1,0 +1,36 @@
+body {
+    background-color: black;
+    color: whitesmoke;
+}
+
+h1 {
+    font-size:20px;
+    font-family: monospace;
+}
+
+p {
+    margin: 100px;
+   
+}
+
+div.first {
+    border: 5px outset greenyellow;
+    border-style: dotted;
+    margin: 50px;
+}
+
+div.second {
+    border: 5px outset red;
+    border-style:double;
+    margin: 50px;
+}
+
+div.third {
+    border: 5px outset blue;
+    border-style:ridge;
+    margin: 50px;
+}
+
+div.Gallery {
+    margin-left: 200px;
+}
